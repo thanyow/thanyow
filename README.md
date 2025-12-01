@@ -46,12 +46,27 @@ I'm **Maurithania Joleesha**, a 5th-semester Information Systems student current
 
 ## 📁 Projects
 
-| Project | Role | Stack |
-| :--- | :--- | :--- |
-| **📷 Popapic**<br>_Web Photobooth App with filters, stickers, and frame systems._ | **Design & Dev** | ![Figma](https://img.shields.io/badge/Figma-white?style=flat-square&logo=figma&logoColor=d95e7b) ![Web](https://img.shields.io/badge/Web-white?style=flat-square&logo=html5&logoColor=abbb72) |
-| **🎨 Pixart**<br>_Browser-based pixel art drawing canvas & editor._ | **Full Stack** | ![JS](https://img.shields.io/badge/JS-white?style=flat-square&logo=javascript&logoColor=d95e7b) ![CSS](https://img.shields.io/badge/CSS-white?style=flat-square&logo=css3&logoColor=abbb72) |
-| **📸 Pixcam**<br>_Retro-style webcam filter that turns video into pixel art._ | **Developer** | ![JS](https://img.shields.io/badge/JS-white?style=flat-square&logo=javascript&logoColor=d95e7b) ![HTML](https://img.shields.io/badge/HTML-white?style=flat-square&logo=html5&logoColor=abbb72) |
-| **🧁 Timmy**<br>_Cute Pastel Desktop Timer (Pomodoro/Stopwatch)._ | **Developer** | ![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=d95e7b) |
+<div align="center">
+
+<h3>🎨 Pixart</h3>
+<p><i>Browser-based pixel art drawing canvas & editor.</i></p>
+<img src="https://img.shields.io/badge/JS-white?style=flat-square&logo=javascript&logoColor=d95e7b"/> <img src="https://img.shields.io/badge/CSS-white?style=flat-square&logo=css3&logoColor=abbb72"/>
+<br>
+<a href="https://github.com/thanyow/pixart">
+  <img src="https://img.shields.io/badge/View_Repository-abbb72?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<h3>📸 Pixcam</h3>
+<p><i>Retro-style webcam filter that turns video into pixel art.</i></p>
+<img src="https://img.shields.io/badge/JS-white?style=flat-square&logo=javascript&logoColor=d95e7b"/> <img src="https://img.shields.io/badge/HTML-white?style=flat-square&logo=html5&logoColor=abbb72"/>
+<br>
+<a href="https://github.com/thanyow/pixcam">
+  <img src="https://img.shields.io/badge/View_Repository-d95e7b?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
