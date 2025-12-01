@@ -20,7 +20,7 @@ I'm **Maurithania Joleesha**, a 5th-semester Information Systems student current
 
 - 💻 **Current Stack:** Working mostly with PHP/Laravel & MySQL.
 - 🎨 **Interests:** I love trying to make UI/UX designs feel clean and soft.
-- 🌱 **Learning:** Currently studying Systems Analysis and API Design.
+- 🌱 **Learning:** Currently learning Web development, UI/UX, Systems Analysis, and API design.
 - ✨ **Goal:** To keep improving my skills and build helpful apps.
 
 ---
