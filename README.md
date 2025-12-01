@@ -47,26 +47,13 @@ I'm **Maurithania Joleesha**, a 5th-semester Information Systems student current
 ## 📁 Projects
 
 <div align="center">
+  
+  [![PixArt](https://github-readme-stats.vercel.app/api/pin/?username=thanyow&repo=PixArt&title_color=FF9AA2&icon_color=B5EAD7&text_color=777777&bg_color=ffffff)](https://github.com/thanyow/PixArt)
 
-<h3>🎨 PixArt</h3>
-<p><i>Browser-based pixel art drawing canvas & editor.</i></p>
-<img src="https://img.shields.io/badge/JS-white?style=flat-square&logo=javascript&logoColor=d95e7b"/> <img src="https://img.shields.io/badge/CSS-white?style=flat-square&logo=css3&logoColor=abbb72"/>
-<br>
-<a href="https://github.com/thanyow/pixart">
-  <img src="https://img.shields.io/badge/View_Repository-abbb72?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<h3>📸 PixCam</h3>
-<p><i>Retro-style webcam filter that turns video into pixel art.</i></p>
-<img src="https://img.shields.io/badge/JS-white?style=flat-square&logo=javascript&logoColor=d95e7b"/> <img src="https://img.shields.io/badge/HTML-white?style=flat-square&logo=html5&logoColor=abbb72"/>
-<br>
-<a href="https://github.com/thanyow/pixcam">
-  <img src="https://img.shields.io/badge/View_Repository-d95e7b?style=flat-square&logo=github&logoColor=white" />
-</a>
+  [![PixCam](https://github-readme-stats.vercel.app/api/pin/?username=thanyow&repo=PixCam&title_color=B5EAD7&icon_color=FF9AA2&text_color=777777&bg_color=ffffff)](https://github.com/thanyow/PixCam)
 
 </div>
+
 
 ---
 
