@@ -48,6 +48,16 @@ I'm **Maurithania Joleesha**, a 5th-semester Information Systems student current
 
 <div align="center">
 
+<h3>📷 Popapic</h3>
+<p><i>Web Photobooth App with filters, stickers, and frame systems.</i></p>
+<img src="https://img.shields.io/badge/Figma-white?style=flat-square&logo=figma&logoColor=d95e7b"/> <img src="https://img.shields.io/badge/Web-white?style=flat-square&logo=html5&logoColor=abbb72"/>
+<br>
+<a href="https://github.com/thanyow/popapic">
+  <img src="https://img.shields.io/badge/View_Repository-d95e7b?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
 <h3>🎨 Pixart</h3>
 <p><i>Browser-based pixel art drawing canvas & editor.</i></p>
 <img src="https://img.shields.io/badge/JS-white?style=flat-square&logo=javascript&logoColor=d95e7b"/> <img src="https://img.shields.io/badge/CSS-white?style=flat-square&logo=css3&logoColor=abbb72"/>
@@ -73,11 +83,6 @@ I'm **Maurithania Joleesha**, a 5th-semester Information Systems student current
 ## 📊 GitHub Insights
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=thanyow&show_icons=true&hide_border=true&title_color=abbb72&icon_color=d95e7b&text_color=777777&bg_color=ffffff" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanyow&layout=compact&hide_border=true&title_color=d95e7b&text_color=777777&bg_color=ffffff&hide=html,css" height="150" alt="languages graph" />
-
-  <br>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanyow&theme=transparent&hide_border=true&ring=abbb72&fire=d95e7b&currStreakLabel=abbb72&dates=777777" alt="streak stats"/>
 
