@@ -47,6 +47,16 @@ I'm **Maurithania Joleesha**, a 5th-semester Information Systems student current
 ## 📁 Projects
 
 <div align="center">
+  
+<h3>🍿 CineMatch</h3>
+<p><i>Streaming platform-style movie dashboard with live trailers & AI recommendations.</i></p>
+<img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=d95e7b"/> <img src="https://img.shields.io/badge/Streamlit-white?style=flat-square&logo=streamlit&logoColor=abbb72"/> <img src="https://img.shields.io/badge/TMDB_API-white?style=flat-square&logo=themoviedatabase&logoColor=d95e7b"/>
+<br>
+<a href="https://github.com/thanyow/CineMatch">
+  <img src="https://img.shields.io/badge/View_Repository-d95e7b?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<br><br>
 
 <h3>🎨 PixArt</h3>
 <p><i>Browser-based pixel art drawing canvas & editor.</i></p>
@@ -74,7 +84,7 @@ I'm **Maurithania Joleesha**, a 5th-semester Information Systems student current
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanyow&theme=transparent&hide_border=true&ring=abbb72&fire=d95e7b&currStreakLabel=abbb72&dates=777777" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanyow&theme=transparent&hide_border=true&ring=abbb72&fire=d95e7b&currStreakLabel=abbb72&dates=777777&cache_bust=1" alt="streak stats"/>
 
   <br>
 
