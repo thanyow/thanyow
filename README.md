@@ -84,7 +84,7 @@ I'm **Maurithania Joleesha**, a 5th-semester Information Systems student current
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanyow&theme=transparent&hide_border=true&ring=abbb72&fire=d95e7b&currStreakLabel=abbb72&dates=777777&cache_bust=1" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanyow&theme=transparent&hide_border=true&ring=abbb72&fire=d95e7b&currStreakLabel=abbb72&dates=777777&cache_bust=2" alt="streak stats"/>
 
   <br>
 
