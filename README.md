@@ -7,7 +7,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&pause=1000&color=d95e7b&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Maurithania+Joleesha;Call+me+Than+or+Niyo!;Information+Systems+Student;Loves+Web+Dev+%26+Design" alt="Typing SVG" />
   </a>
-
 </div>
 
 <br>
@@ -22,6 +21,13 @@ I'm **Maurithania Joleesha**, a 5th-semester Information Systems student current
 - 🎨 **Interests:** I love trying to make UI/UX designs feel clean and soft.
 - 🌱 **Learning:** Currently learning Web development, UI/UX, Systems Analysis, and API design.
 - ✨ **Goal:** To keep improving my skills and build helpful apps.
+
+---
+
+### 🎧 Now Playing
+<div align="center">
+  <img src="https://novatorem-muhammadammarfaris22.vercel.app/api/spotify?background_color=0d1117&show_offline&border_color=d95e7b" alt="Spotify Now Playing" />
+</div>
 
 ---
 
@@ -47,13 +53,13 @@ I'm **Maurithania Joleesha**, a 5th-semester Information Systems student current
 ## 📁 Projects
 
 <div align="center">
-  
+  
 <h3>🍿 CineMatch</h3>
 <p><i>Streaming platform-style movie dashboard with live trailers & AI recommendations.</i></p>
 <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=d95e7b"/> <img src="https://img.shields.io/badge/Streamlit-white?style=flat-square&logo=streamlit&logoColor=abbb72"/> <img src="https://img.shields.io/badge/TMDB_API-white?style=flat-square&logo=themoviedatabase&logoColor=d95e7b"/>
 <br>
 <a href="https://github.com/thanyow/CineMatch">
-  <img src="https://img.shields.io/badge/View_Repository-d95e7b?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Repository-d95e7b?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 <br><br>
@@ -63,7 +69,7 @@ I'm **Maurithania Joleesha**, a 5th-semester Information Systems student current
 <img src="https://img.shields.io/badge/JS-white?style=flat-square&logo=javascript&logoColor=d95e7b"/> <img src="https://img.shields.io/badge/CSS-white?style=flat-square&logo=css3&logoColor=abbb72"/>
 <br>
 <a href="https://github.com/thanyow/PixArt">
-  <img src="https://img.shields.io/badge/View_Repository-d95e7b?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Repository-d95e7b?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 <br><br>
@@ -73,7 +79,7 @@ I'm **Maurithania Joleesha**, a 5th-semester Information Systems student current
 <img src="https://img.shields.io/badge/JS-white?style=flat-square&logo=javascript&logoColor=d95e7b"/> <img src="https://img.shields.io/badge/HTML-white?style=flat-square&logo=html5&logoColor=abbb72"/>
 <br>
 <a href="https://github.com/thanyow/PixCam">
-  <img src="https://img.shields.io/badge/View_Repository-abbb72?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Repository-abbb72?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -84,13 +90,17 @@ I'm **Maurithania Joleesha**, a 5th-semester Information Systems student current
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanyow&theme=transparent&hide_border=true&ring=abbb72&fire=d95e7b&currStreakLabel=abbb72&dates=777777&cache_bust=2" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanyow&theme=transparent&hide_border=true&ring=abbb72&fire=d95e7b&currStreakLabel=abbb72&dates=777777&cache_bust=2" alt="streak stats"/>
 
-  <br>
+  <br>
 
-  <img src="https://raw.githubusercontent.com/thanyow/thanyow/output/github-contribution-grid-snake.svg" alt="contribution grid snake animation" />
+  <img src="https://raw.githubusercontent.com/thanyow/thanyow/output/github-contribution-grid-snake.svg" alt="contribution grid snake animation" />
 
 </div>
+
+---
+
+### 📅 This week I spent time on
 
 ---
 
@@ -103,13 +113,13 @@ I'm **Maurithania Joleesha**, a 5th-semester Information Systems student current
 <br>
 
 <a href="mailto:maurithania.tjakra@gmail.com">
-  <img src="https://img.shields.io/badge/Email-d95e7b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/Email-d95e7b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/thaniow">
-  <img src="https://img.shields.io/badge/LinkedIn-abbb72?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-abbb72?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
 <br><br>
