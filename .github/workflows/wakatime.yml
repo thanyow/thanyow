@@ -12,8 +12,9 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_OS: "false"
+          SHOW_OS: "true"
           SHOW_PROJECTS: "true"
           SHOW_TIME_PROGRESS: "true"
           SYMBOL_VERSION: "2"
-          CUSTOM_STATS_TEMPLATE: "🍵 {percent}% 🌸 {bar}"
+          SHOW_LANGUAGE: "true"
+          SHOW_COMMMIT: "true"
