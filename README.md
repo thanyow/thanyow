@@ -102,9 +102,9 @@ I'm **Maurithania Joleesha**, a 5th-semester Information Systems student current
 
 ---
 
-### 📅 This week I spent time on
-``
-``
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 ## 💌 Contact Me
