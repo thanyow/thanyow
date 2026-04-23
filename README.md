@@ -15,7 +15,7 @@
 
 ## 🍰 About Me
 
-I'm **Maurithania Joleesha**, a 5th-semester Information Systems student currently exploring the world of web development. I enjoy creating things that are functional and pleasant to look at.
+I'm **Maurithania Joleesha**, a 6th-semester Information Systems student currently exploring the world of web development. I enjoy creating things that are functional and pleasant to look at.
 
 - 💻 **Current Stack:** Working mostly with PHP/Laravel & MySQL.
 - 🎨 **Interests:** I love trying to make UI/UX designs feel clean and soft.
