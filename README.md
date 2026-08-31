@@ -1,201 +1,157 @@
 <div align="center">
-  <br>
-  <img src="https://github.com/user-attachments/assets/eb4ba8eb-6091-4ee5-82fb-aa6064fd832b" width="220" alt="Avatar"/>
 
-  <br><br>
+<br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&pause=1000&color=d95e7b&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Maurithania+Joleesha;Call+me+Than+or+Niyo!;Information+Systems+Student;Loves+Web+Dev+%26+Design" alt="Typing SVG" />
-  </a>
+<img src="https://github.com/user-attachments/assets/eb4ba8eb-6091-4ee5-82fb-aa6064fd832b" width="220" alt="Avatar"/>
+
+<br><br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+Rounded+1c&weight=700&pause=1000&color=d95e7b&center=true&vCenter=true&width=500&lines=hi!+i'm+thania+%E2%99%A1;than+%2F+niyo+works+too;information+systems+student;welcome+to+my+github+%3A%29" alt="Typing SVG" />
+</a>
+
 </div>
 
 <br>
 
 ---
 
-## 🍰 About Me
+## 🍰 about me
 
-I'm **Maurithania Joleesha**, a 6th-semester Information Systems student currently exploring the world of web development. I enjoy creating things that are functional and pleasant to look at.
+hi! i'm **Maurithania Joleesha**.
 
-- 💻 **Current Stack:** Working mostly with PHP/Laravel & MySQL.
-- 🎨 **Interests:** I love trying to make UI/UX designs feel clean and soft.
-- 🌱 **Learning:** Currently learning Web development, UI/UX, Systems Analysis, and API design.
-- ✨ **Goal:** To keep improving my skills and build helpful apps.
+i'm an **Information Systems student** interested in web development and UI/UX. i mostly work on web projects, but i also like trying out new things whenever something catches my interest.
 
----
+currently working with **PHP/Laravel, MySQL, JavaScript, and Python**, plus whatever else i happen to be learning at the moment :)
 
-### 🎧 Now Playing
+<br>
+
+### 🎧 now playing
+
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21e4rtqa3iw3ayhj54dcgqrba&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21e4rtqa3iw3ayhj54dcgqrba&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
   </a>
 </p>
 
+<br>
+
 ---
 
-## 🛠 Tech Stack
+## 🛠 things i use
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/PHP-abbb72?style=flat&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-d95e7b?style=flat&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-abbb72?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JS-d95e7b?style=flat&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-abbb72?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-d95e7b?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-d95e7b?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-abbb72?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-d95e7b?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-abbb72?style=flat&logo=html5&logoColor=white"/>
+
 <br>
-<img src="https://img.shields.io/badge/Figma-abbb72?style=flat&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-d95e7b?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-abbb72?style=flat&logo=visual%20studio%20code&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Figma-d95e7b?style=flat&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-abbb72?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-d95e7b?style=flat&logo=visual%20studio%20code&logoColor=white"/>
 
 </div>
 
+<br>
+
 ---
 
-## 📁 Projects
+## 📁 things i've made
 
 <div align="center">
-  
-<h3>🍿 CineMatch</h3>
-<p><i>Streaming platform-style movie dashboard with live trailers & AI recommendations.</i></p>
-<img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=d95e7b"/> <img src="https://img.shields.io/badge/Streamlit-white?style=flat-square&logo=streamlit&logoColor=abbb72"/> <img src="https://img.shields.io/badge/TMDB_API-white?style=flat-square&logo=themoviedatabase&logoColor=d95e7b"/>
-<br>
+
+### 🍿 CineMatch
+
+movie discovery dashboard with trailers + recommendations
+
+<img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=d95e7b"/>
+<img src="https://img.shields.io/badge/Streamlit-white?style=flat-square&logo=streamlit&logoColor=abbb72"/>
+<img src="https://img.shields.io/badge/TMDB_API-white?style=flat-square&logo=themoviedatabase&logoColor=d95e7b"/>
+
+<br><br>
+
 <a href="https://github.com/thanyow/CineMatch">
-  <img src="https://img.shields.io/badge/View_Repository-d95e7b?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/view_repo-d95e7b?style=flat-square&logo=github&logoColor=white"/>
 </a>
+
+<br><br><br>
+
+### 🎨 PixArt
+
+a tiny pixel art editor that runs in the browser
+
+<img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=d95e7b"/>
+<img src="https://img.shields.io/badge/CSS-white?style=flat-square&logo=css3&logoColor=abbb72"/>
 
 <br><br>
 
-<h3>🎨 PixArt</h3>
-<p><i>Browser-based pixel art drawing canvas & editor.</i></p>
-<img src="https://img.shields.io/badge/JS-white?style=flat-square&logo=javascript&logoColor=d95e7b"/> <img src="https://img.shields.io/badge/CSS-white?style=flat-square&logo=css3&logoColor=abbb72"/>
-<br>
 <a href="https://github.com/thanyow/PixArt">
-  <img src="https://img.shields.io/badge/View_Repository-d95e7b?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/view_repo-abbb72?style=flat-square&logo=github&logoColor=white"/>
 </a>
+
+<br><br><br>
+
+### 📸 PixCam
+
+turns your webcam into pixel art just because
+
+<img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=d95e7b"/>
+<img src="https://img.shields.io/badge/HTML-white?style=flat-square&logo=html5&logoColor=abbb72"/>
 
 <br><br>
 
-<h3>📸 PixCam</h3>
-<p><i>Retro-style webcam filter that turns video into pixel art.</i></p>
-<img src="https://img.shields.io/badge/JS-white?style=flat-square&logo=javascript&logoColor=d95e7b"/> <img src="https://img.shields.io/badge/HTML-white?style=flat-square&logo=html5&logoColor=abbb72"/>
-<br>
 <a href="https://github.com/thanyow/PixCam">
-  <img src="https://img.shields.io/badge/View_Repository-abbb72?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/view_repo-d95e7b?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
+<br>
+
 ---
 
-## 📊 GitHub Insights
+## 📊 github things
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanyow&theme=transparent&hide_border=true&ring=abbb72&fire=d95e7b&currStreakLabel=abbb72&dates=777777&cache_bust=2" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thanyow&theme=transparent&hide_border=true&ring=abbb72&fire=d95e7b&currStreakLabel=abbb72&dates=777777" alt="GitHub Streak"/>
 
-  <br>
+<br>
 
-  <img src="https://raw.githubusercontent.com/thanyow/thanyow/output/github-contribution-grid-snake.svg" alt="contribution grid snake animation" />
+<img src="https://raw.githubusercontent.com/thanyow/thanyow/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake"/>
 
 </div>
 
----
+<br>
+
+### ⏱ coding lately
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 74.2 kB Used in GitHub's Storage 
- > 
-> 🏆 20 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 13 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                185 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.97 % 
-🌆 Daytime                85 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.88 % 
-🌃 Evening                74 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.79 % 
-🌙 Night                  12 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.37 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   46 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.92 % 
-Tuesday                  78 commits          ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.91 % 
-Wednesday                55 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.45 % 
-Thursday                 79 commits          ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.19 % 
-Friday                   35 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.83 % 
-Saturday                 27 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.58 % 
-Sunday                   36 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.11 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in PHP** 
-
-```text
-PHP                      25 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   59.52 % 
-Blade                    9 repos             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.43 % 
-Python                   3 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.14 % 
-HTML                     2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.76 % 
-JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.38 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/thanyow/thanyow/main/assets/bar_graph.png)
-
-
- Last Updated on 13/04/2026 03:30:17 UTC
 <!--END_SECTION:waka-->
-
----
-
-## 💌 Contact Me
-
-<div align="center">
-
-✨ I’d love to connect with you~ whether it’s for a project, internship, or collaboration! ✨
 
 <br>
 
+---
+
+## 💌 find me here
+
+<div align="center">
+
 <a href="mailto:maurithania.tjakra@gmail.com">
-  <img src="https://img.shields.io/badge/Email-d95e7b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/email-d95e7b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-&nbsp;&nbsp;
+  
 
 <a href="https://linkedin.com/in/thaniow">
-  <img src="https://img.shields.io/badge/LinkedIn-abbb72?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/linkedIn-abbb72?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br><br>
@@ -204,6 +160,6 @@ JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <br>
 
-🌸 *Thanks for stopping by!* (´｡• ᵕ •｡`) ♡
+*thanks for stopping by ♡*
 
 </div>
