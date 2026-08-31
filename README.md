@@ -26,16 +26,6 @@ currently working with **PHP/Laravel, MySQL, JavaScript, and Python**, plus what
 
 <br>
 
-### 🎧 now playing
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21e4rtqa3iw3ayhj54dcgqrba&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
-  </a>
-</p>
-
-<br>
-
 ---
 
 ## 🛠 things i use
