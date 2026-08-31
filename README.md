@@ -130,14 +130,6 @@ turns your webcam into pixel art just because
 
 <br>
 
-### ⏱ coding lately
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-<br>
-
 ---
 
 ## 💌 find me here
